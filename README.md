@@ -1,4 +1,4 @@
-This is the repository of **A Survey of Label-Efficient Deep Learning for 3D Point Clouds**, a comprehensive survey of recent progress in deep learning methods for label-efficient learning of point clouds. For details, please refer to:
+This is the repository of **A Survey of Label-Efficient Deep Learning for 3D Point Clouds**, a comprehensive survey of recent progress in deep learning methods for label-efficient learning of point clouds. For details, please refer to: 
 
  **A Survey of Label-Efficient Deep Learning for 3D Point Clouds**  
  [[Paper]()] :boom::boom::boom:
