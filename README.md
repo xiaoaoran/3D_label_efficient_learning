@@ -1,6 +1,6 @@
 This is the repository of **A Survey of Label-Efficient Deep Learning\\for 3D Point Clouds**, a comprehensive survey of recent progress in deep learning methods for label-efficient learning of point clouds. For details, please refer to:
 
- **A Survey of Label-Efficient Deep Learning\\for 3D Point Clouds**  
+ **A Survey of Label-Efficient Deep Learning for 3D Point Clouds**  
  [[Paper]()] :boom::boom::boom:
  
 [//]: # ( [![arXiv]&#40;https://img.shields.io/badge/arXiv-2202.13589-b31b1b.svg&#41;]&#40;https://arxiv.org/abs/2202.13589&#41;)
@@ -13,7 +13,7 @@ This is the repository of **A Survey of Label-Efficient Deep Learning\\for 3D Po
 In the past decade, deep neural networks have achieved significant progress in point cloud learning. However, collecting large-scale precisely-annotated training data is extremely laborious and expensive, which hinders the scalability of existing point cloud datasets and poses a bottleneck for efficient exploration of point cloud data in various tasks and applications. Label-efficient learning offers a promising solution by enabling effective deep network training with much-reduced annotation efforts. This paper presents the first comprehensive survey of label-efficient learning of point clouds. We address three critical questions in this emerging research field: i) the importance and urgency of label-efficient learning in point cloud processing, ii) the subfields it encompasses, and iii) the progress achieved in this area. To achieve this, we propose a taxonomy that organizes label-efficient learning methods based on the data prerequisites provided by different types of labels. We categorize four typical label-efficient learning approaches that significantly reduce point cloud annotation efforts: data augmentation, domain transfer learning, weakly-supervised learning, and pretrained foundation models. For each approach, we outline the problem setup and provide an extensive literature review that showcases relevant progress and challenges. Finally, we share insights into current research challenges and potential future directions. 
 
 <p align="center">
-<img src="https://github.com/xiaoaoran/3d_label_efficient_survey/blob/main/asset/Taxonomy_v3.png" width="1024">
+<img src="https://github.com/xiaoaoran/3D_label_efficient_learning/blob/master/asset/Taxonomy_v3.png" width="1024">
 </p>
 
 # Citation
