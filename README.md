@@ -1,9 +1,9 @@
 This is the repository of **A Survey of Label-Efficient Deep Learning for 3D Point Clouds**, a comprehensive survey of recent progress in deep learning methods for label-efficient learning of point clouds. For details, please refer to: 
 
  **A Survey of Label-Efficient Deep Learning for 3D Point Clouds**  
- [[Paper]()] :boom::boom::boom:
+ [[Paper](https://arxiv.org/pdf/2305.19812.pdf)] :boom::boom::boom:
  
-[//]: # ( [![arXiv]&#40;https://img.shields.io/badge/arXiv-2202.13589-b31b1b.svg&#41;]&#40;https://arxiv.org/abs/2202.13589&#41;)
+ [![arXiv](https://img.shields.io/badge/arXiv-2305.19812-b31b1b.svg)](https://arxiv.org/abs/2305.19812)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) -->
