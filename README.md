@@ -17,7 +17,14 @@ In the past decade, deep neural networks have achieved significant progress in p
 </p>
 
 # Citation
-Coming soon...
+```
+@article{xiao2023survey,
+  title={A Survey of Label-Efficient Deep Learning for 3D Point Clouds},
+  author={Xiao, Aoran and Zhang, Xiaoqin and Shao, Ling and Lu, Shijian},
+  journal={arXiv preprint arXiv:2305.19812},
+  year={2023}
+}
+```
 
 ## Menu
 - [Data Augmentation](#data-augmentation)
